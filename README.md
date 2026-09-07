@@ -1,6 +1,6 @@
 # Hotel Operations Analytics
 
-> **Portfolio disclaimer:** This repository applies Production Engineering and Data Analytics to hotel operations. It does not claim professional hotel-management experience. Every operational row, KPI, model result and scenario is synthetic or modelled.
+> **Portfolio disclaimer:** This repository applies Data Analysis to hotel operations. It does not claim professional hotel-management experience. Every operational row, KPI, model result and scenario is synthetic or modelled.
 
 ## Business problem
 Housekeeping and stewarding supervisors must match daily demand to limited people and equipment while protecting readiness, hygiene, quality and resource control. This repository demonstrates a practical measurement and decision-support approach.
